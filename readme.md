@@ -2,9 +2,11 @@
     -Nombre
     -Apellido
     -Telefono
+
 ### La agenda tendra las siguentes funcionalidad:
     -Agregar nuevo contacto
     -Listar todos los contactos
+
 ### Archivos que se espera recibir:
     -contacto.h
     -agenda.h
