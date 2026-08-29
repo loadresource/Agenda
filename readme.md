@@ -39,7 +39,3 @@ void listar_contactos();
 void agenda();
 ```
 
-
-
-
-
