@@ -123,7 +123,7 @@ void agenda()
         printf("-1. Agregar nuevo contacto\n");
         printf("-2. Listar contactos\n");
         printf("-3. Salir\n");
-        printf("Elige una opción: ");
+        printf("Elige una opcion: ");
 
         if (scanf("%d", &input_usuario) != 1)
         {
