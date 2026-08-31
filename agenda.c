@@ -49,7 +49,7 @@ void agregar_nuevo_contacto()
     }
     strcpy(apellido, buffer);
 
-    printf("Teléfono: ");
+    printf("Telefono: ");
     if (fgets(buffer, sizeof(buffer), stdin) == NULL)
     {
         fprintf(stderr, "Error al leer telefono\n");
