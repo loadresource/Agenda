@@ -23,7 +23,14 @@ _____________________________________________________
 ## contacto.h
 Este solo llevara el struct
 
+
+
 ```C
+//cualquiera de las dos esta bien
+//simplemente por tener mejor legibilidad
+//char* nombre
+//char *nombre
+
 typedef struct{
     char* nombre;
     char* apellido;
