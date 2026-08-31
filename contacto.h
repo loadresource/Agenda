@@ -8,4 +8,10 @@ typedef struct
     char *telefono;
 } contacto;
 
+typedef struct Nodo
+{
+    contacto dato;
+    struct Nodo *tail;
+} Nodo;
+
 #endif
