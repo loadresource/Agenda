@@ -129,7 +129,7 @@ void agenda()
         {
             while (getchar() != '\n')
                 ;
-            printf("Opción invalida. Intentalo de nuevo\n");
+            printf("Opcion invalida. Intentalo de nuevo\n");
             continue;
         }
         while (getchar() != '\n')
